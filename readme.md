@@ -8,6 +8,8 @@
 
 A bash script to analyze server performance and
 
+project: [link](https://github.com/jasael/devops-server-stats-script)
+
 This script check next information:
 
 - OS System
