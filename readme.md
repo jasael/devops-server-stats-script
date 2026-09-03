@@ -8,8 +8,9 @@
 
 A bash script to analyze server performance and
 
-project: [link](https://github.com/jasael/devops-server-stats-script)
-roadmap.sh project: [link](https://roadmap.sh/projects/server-stats)
+- project: [link](https://github.com/jasael/devops-server-stats-script)
+- roadmap.sh project: [link](https://roadmap.sh/projects/server-stats)
+
 This script check next information:
 
 - OS System
